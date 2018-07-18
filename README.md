@@ -1,6 +1,15 @@
 # youtube_project
 
-## Summary and Findings ##
+## Summary ##
+
+This group project is an exploration of YouTube trending videos to examine some of the factors that impact whether a video trends. The data included a list of daily trending videos in the United States from November 2017 through June 2018. Here is a link to the dataset which we found on Kaggle. 
+
+https://www.kaggle.com/datasnaek/youtube-new
+
+We examined a number of questions broken down by video categories including: total views, average views, likes and dislikes, and sentiment by category. 
+
+
+## Findings ##
 
 **Does video category impact the number of trending videos and average views?**
 
